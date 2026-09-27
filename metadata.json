@@ -1,0 +1,6 @@
+{
+  "name": "CYBER DITHER — 3D Audio Visualizer",
+  "description": "Futuristic, immersive 3D music visualizer combining real-time Web Audio analysis, digital dithering shaders, particle systems, and cinematic camera choreography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
